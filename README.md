@@ -1,6 +1,4 @@
 ## ml5.js Simple Image Classification
-<a href="https://edmonton-school-of-ai.github.io/ml5-Simple-Image-Classification/" target="_blank">![](image-classification.gif)</a><br>
-<b>Click the gif above to play with MobileNet</b>
 ## Resources
 - <a href="https://youtu.be/yNkAuWz5lnY" target="_blank">ml5.js - Image Classification with MobileNet (Coding Train)</a><br>
 - <a href="http://www.image-net.org/" target="_blank">Imagenet</a><br>
